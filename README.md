@@ -1,16 +1,3 @@
-Projeto Unipet
-Sistema para Petshop e Adoção de Animais
-
-Visão Geral
-O Projeto Unipet é uma aplicação web desenvolvida para gerenciar um petshop que vende produtos relacionados a animais e conecta usuários a locais de adoção. O sistema também oferece funcionalidades para cadastro e consulta de clientes, controle de estoque e gerenciamento de dados de adoção.
-
-Você pode acessar o sistema em:  
-[Projeto Unipet - Visualizar aplicação](https://yurisales11.github.io/projeto-unisuam/)
-
-Aqui está uma versão ajustada do README com o link do projeto e a exclusão das instruções de clonagem, substituindo por informações mais indicadas para consulta e navegação:
-
----
-
 # **Projeto Unipet**  
 **Sistema para Petshop e Adoção de Animais**  
 
