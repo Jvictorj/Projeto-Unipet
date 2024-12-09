@@ -30,7 +30,7 @@ Este projeto foi desenvolvido como parte do módulo de **Desenvolvimento de Soft
 - **Sistema de Log:**  
   - Registro de autenticações.  
 - **Gerenciamento de Produtos e Estoque:**  
-  - Cadastro e visualização.  
+  - Cadastro, visualização e exclusão.  
 - **Acessibilidade:**  
   - Ajuste de contraste e tamanho de fontes.  
 - **Exportação de Dados:**  
@@ -39,7 +39,7 @@ Este projeto foi desenvolvido como parte do módulo de **Desenvolvimento de Soft
 ## **Tecnologias Utilizadas**  
 - **Back-end:** PHP  
 - **Banco de Dados:** MySQL  
-- **Front-end:** Bootstrap (ou outro framework escolhido)  
+- **Front-end:** Angular  
 - **Autenticação:** Implementação de 2FA  
 
 ## **Requisitos de Sistema**  
