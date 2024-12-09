@@ -9,6 +9,19 @@ O Projeto Unipet é uma aplicação web desenvolvida para gerenciar um petshop q
 Você pode acessar o sistema em:  
 [Projeto Unipet - Visualizar aplicação](https://yurisales11.github.io/projeto-unisuam/)
 
+Aqui está uma versão ajustada do README com o link do projeto e a exclusão das instruções de clonagem, substituindo por informações mais indicadas para consulta e navegação:
+
+---
+
+# **Projeto Unipet**  
+**Sistema para Petshop e Adoção de Animais**  
+
+## **Visão Geral**  
+O Projeto Unipet é uma aplicação web desenvolvida para gerenciar um petshop que vende produtos relacionados a animais e conecta usuários a locais de adoção. O sistema também oferece funcionalidades para cadastro e consulta de clientes, controle de estoque e gerenciamento de dados de adoção.
+
+Você pode acessar o sistema em:  
+[Projeto Unipet - Visualizar aplicação](https://yurisales11.github.io/projeto-unisuam/)
+
 ---
 
 ## **Funcionalidades Principais**  
@@ -38,25 +51,10 @@ Você pode acessar o sistema em:
   - APIs para adoção e busca de CEP  
 
 ---
- 
-## **Capturas de Tela**  
-Demonstrações visuais do sistema para petshop e adoção de animais:
 
-### **Página Inicial**  
-![Página Inicial](caminho/para/imagem-pagina-inicial.png)  
-*Visão geral do catálogo de produtos e opções de adoção.*
-
-### **Cadastro de Usuário**  
-![Cadastro de Usuário](caminho/para/imagem-cadastro-usuario.png)  
-*Formulário para novos clientes realizarem seu cadastro.*
-
-### **Tela de Login com 2FA**  
-![Tela de Login](caminho/para/imagem-login-2fa.png)  
-*Autenticação segura com dois fatores.*
-
-### **Consulta de Animais para Adoção**  
-![Consulta de Adoção](caminho/para/imagem-consulta-adocao.png)  
-*Lista de animais disponíveis para adoção, integrados a ONGs parceiras.*
+## **Como Utilizar**  
+Este projeto é de acesso público para consulta e visualização. Todas as funcionalidades estão disponíveis no ambiente online:  
+[Projeto Unipet - Acesse aqui](https://yurisales11.github.io/projeto-unisuam/).
 
 ---
 
@@ -72,3 +70,5 @@ Contribuições são bem-vindas! Se deseja sugerir melhorias ou relatar problema
 Este projeto está licenciado sob a [MIT License](LICENSE).  
 
 ---
+
+Caso queira personalizar ainda mais ou proteger o repositório contra clonagem direta, uma boa prática é torná-lo privado. Quer ajuda para configurar isso?
