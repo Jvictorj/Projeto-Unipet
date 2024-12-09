@@ -37,9 +37,24 @@ Você pode acessar o sistema em:
 
 ---
 
-## **Como Utilizar**  
-Este projeto é de acesso público para consulta e visualização. Todas as funcionalidades estão disponíveis no ambiente online:  
-[Projeto Unipet - Acesse aqui](https://yurisales11.github.io/projeto-unisuam/).
+## **Capturas de Tela**  
+Demonstrações visuais do sistema para petshop e adoção de animais:
+
+### **Página Inicial**  
+![Página Inicial](caminho/para/imagem-pagina-inicial.png)  
+*Visão geral do catálogo de produtos e opções de adoção.*
+
+### **Cadastro de Usuário**  
+![Cadastro de Usuário](caminho/para/imagem-cadastro-usuario.png)  
+*Formulário para novos clientes realizarem seu cadastro.*
+
+### **Tela de Login com 2FA**  
+![Tela de Login](caminho/para/imagem-login-2fa.png)  
+*Autenticação segura com dois fatores.*
+
+### **Consulta de Animais para Adoção**  
+![Consulta de Adoção](caminho/para/imagem-consulta-adocao.png)  
+*Lista de animais disponíveis para adoção, integrados a ONGs parceiras.*
 
 ---
 
@@ -53,7 +68,3 @@ Contribuições são bem-vindas! Se deseja sugerir melhorias ou relatar problema
 
 ## **Licença**  
 Este projeto está licenciado sob a [MIT License](LICENSE).  
-
----
-
-Caso queira personalizar ainda mais ou proteger o repositório contra clonagem direta, uma boa prática é torná-lo privado. Quer ajuda para configurar isso?
