@@ -27,6 +27,27 @@ Você pode acessar o sistema em:
 
 ---
 
+## **Capturas de Tela**  
+Demonstrações visuais do sistema para petshop e adoção de animais:
+
+### **Página Inicial**  
+![Página Inicial](READMEIMG/home.jpeg)  
+*Visão geral do catálogo de produtos e opções de adoção.*
+
+### **Cadastro de Usuário**  
+![Cadastro de Usuário](READMEIMG/register.jpeg)  
+*Formulário para novos clientes realizarem seu cadastro.*
+
+### **Tela de Login com 2FA**  
+![Tela de Login](READMEIMG/login.jpeg)  
+*Autenticação segura com dois fatores.*
+
+### **Consulta de Animais para Adoção**  
+![Consulta de Adoção](READMEIMG/adocao.jpeg)  
+*Lista de animais disponíveis para adoção, integrados a ONGs parceiras.*
+
+---
+
 ## **Tecnologias Utilizadas**  
 - **Back-end:** PHP  
 - **Banco de Dados:** MySQL  
@@ -34,27 +55,6 @@ Você pode acessar o sistema em:
 - **Outras Tecnologias:**  
   - Framework para 2FA  
   - APIs para adoção e busca de CEP  
-
----
-
-## **Capturas de Tela**  
-Demonstrações visuais do sistema para petshop e adoção de animais:
-
-### **Página Inicial**  
-![Página Inicial](caminho/para/imagem-pagina-inicial.png)  
-*Visão geral do catálogo de produtos e opções de adoção.*
-
-### **Cadastro de Usuário**  
-![Cadastro de Usuário](caminho/para/imagem-cadastro-usuario.png)  
-*Formulário para novos clientes realizarem seu cadastro.*
-
-### **Tela de Login com 2FA**  
-![Tela de Login](caminho/para/imagem-login-2fa.png)  
-*Autenticação segura com dois fatores.*
-
-### **Consulta de Animais para Adoção**  
-![Consulta de Adoção](READMEIMG/adocao.jpeg)  
-*Lista de animais disponíveis para adoção, integrados a ONGs parceiras.*
 
 ---
 
