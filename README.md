@@ -1,78 +1,38 @@
-# Petshop-Unipet
-AINDA EM DESENVOLVIMENTO
- https://yurisales11.github.io/projeto-unisuam/
----
-
-# **Unipet**  
-*Descrição breve e objetiva do projeto, como: "Sistema para gerenciamento de dados e autenticação com funcionalidades adaptáveis a diferentes perfis de usuários".*
-
-## **Índice**  
-1. [Visão Geral](#visão-geral)  
-2. [Funcionalidades](#funcionalidades)  
-3. [Tecnologias Utilizadas](#tecnologias-utilizadas)  
-4. [Requisitos de Sistema](#requisitos-de-sistema)  
-5. [Instalação e Configuração](#instalação-e-configuração)  
-6. [Contribuição](#contribuição)  
-7. [Licença](#licença)  
+# **Projeto Unipet**  
+**Sistema para Petshop e Adoção de Animais**  
 
 ## **Visão Geral**  
-Este projeto foi desenvolvido como parte do módulo de **Desenvolvimento de Software para Internet (Back-end)** no curso de **Análise e Desenvolvimento de Sistemas**. Ele atende às demandas de uma empresa para:  
-- Gerenciamento de clientes.  
-- Divulgação de produtos.  
-- Implementação de login com 2FA.  
+O Projeto Unipet é uma aplicação web desenvolvida para gerenciar um petshop que vende produtos relacionados a animais e conecta usuários a locais de adoção. O sistema também oferece funcionalidades para cadastro e consulta de clientes, controle de estoque e gerenciamento de dados de adoção.
 
-## **Funcionalidades**  
-- **Autenticação e Perfis de Usuário:**  
-  - Login com 2FA.  
-  - Diferenciação entre usuários *Master* e *Comum*.  
+### **Funcionalidades Principais**  
+- **Loja Virtual:**  
+  - Catálogo de produtos relacionados a animais.  
+  - Controle de estoque.  
+- **Adoção de Animais:**  
+  - Integração com ONGs e locais de adoção.  
 - **Gerenciamento de Usuários:**  
-  - Cadastro, consulta, alteração e exclusão.  
-- **Sistema de Log:**  
-  - Registro de autenticações.  
-- **Gerenciamento de Produtos e Estoque:**  
-  - Cadastro, visualização e exclusão.  
+  - Perfis de acesso para administradores e clientes.  
+  - Cadastro, consulta, alteração e exclusão de usuários.  
+- **Autenticação Segura:**  
+  - Login com verificação em dois fatores (2FA).  
+- **Relatórios e Logs:**  
+  - Registro de operações e exportação de relatórios em PDF.  
 - **Acessibilidade:**  
-  - Ajuste de contraste e tamanho de fontes.  
-- **Exportação de Dados:**  
-  - Download de lista de usuários em PDF.  
+  - Troca de contraste e ajuste de tamanho de fonte para maior inclusão.
+
+---
 
 ## **Tecnologias Utilizadas**  
 - **Back-end:** PHP  
 - **Banco de Dados:** MySQL  
-- **Front-end:** Angular  
-- **Autenticação:** Implementação de 2FA  
+- **Front-end:** Bootstrap  
+- **Outras Tecnologias:**  
+  - Framework para 2FA  
+  - APIs para adoção e busca de CEP  
+
+---
 
 ## **Requisitos de Sistema**  
 - **Servidor Web:** Apache/Nginx  
-- **Banco de Dados:** MySQL  
 - **PHP:** Versão 7.4 ou superior  
-
-## **Instalação e Configuração**  
-1. Clone o repositório:  
-   ```bash
-   git clone https://github.com/seuusuario/seuprojeto.git
-   ```  
-2. Configure o banco de dados:  
-   - Crie o banco usando o script SQL fornecido em `/database/script.sql`.  
-
-3. Configure o arquivo de ambiente:  
-   - Renomeie `.env.example` para `.env` e insira suas credenciais.  
-
-4. Inicie o servidor:  
-   ```bash
-   php -S localhost:8000  
-   ```  
-
-5. Acesse no navegador:  
-   - `http://localhost:8000`  
-
-## **Contribuição**  
-Contribuições são bem-vindas! Para contribuir:  
-1. Faça um *fork* do projeto.  
-2. Crie um *branch* para sua funcionalidade (`git checkout -b minha-funcionalidade`).  
-3. Faça *commit* das alterações (`git commit -m 'Adicionei minha funcionalidade'`).  
-4. Envie para o *branch* principal (`git push origin minha-funcionalidade`).  
-5. Abra um *Pull Request*.  
-
-## **Licença**  
-Este projeto está licenciado sob a [MIT License](LICENSE).  
+- **Banco de Dados:** MySQL  
