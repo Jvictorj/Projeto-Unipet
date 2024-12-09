@@ -53,7 +53,7 @@ Demonstrações visuais do sistema para petshop e adoção de animais:
 *Autenticação segura com dois fatores.*
 
 ### **Consulta de Animais para Adoção**  
-![Consulta de Adoção](caminho/para/imagem-consulta-adocao.png)  
+![Consulta de Adoção](READMEIMG/adocao.jpeg)  
 *Lista de animais disponíveis para adoção, integrados a ONGs parceiras.*
 
 ---
